@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0001a6e-de85-41ee-a8c6-2bc8ae9ba8e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cW1k4onfORJGB2jfJ57FKlYqn9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/tictactoe-Alexis (1)/tictactoe-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TicTacToeGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in TicTacToe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToeGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleGameTest.showBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToeGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConsoleGameTest" />
+      <option name="METHOD_NAME" value="showBoardTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleGameTest.showEmptyBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToeGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConsoleGameTest" />
+      <option name="METHOD_NAME" value="showEmptyBoardTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToeGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="JUnit.All in TicTacToe" />
+        <item itemvalue="JUnit.ConsoleGameTest.showBoardTest" />
+        <item itemvalue="JUnit.ConsoleGameTest.showEmptyBoardTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0001a6e-de85-41ee-a8c6-2bc8ae9ba8e3" name="Default Changelist" comment="" />
+      <created>1590629674333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590629674333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1590960511827">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1590960511827" />
+    <state x="425" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590882956956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="425" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1590882956956" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1590897132701">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1590897132701" />
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1590966570084">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590966570084" />
+    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1590966570083">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590966570083" />
+    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1590966570083">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590966570083" />
+    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1590966570083">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590966570083" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1590960452051">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1590960452051" />
+    <state x="730" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590630282169">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="730" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1590630282169" />
+    <state x="796" y="75" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590630776088">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="796" y="75" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1590630776088" />
+    <state x="370" y="215" width="708" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590960439415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="370" y="215" width="708" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.738@0.0.1366.738" timestamp="1590960439415" />
+  </component>
+</project>
