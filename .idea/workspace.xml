@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0001a6e-de85-41ee-a8c6-2bc8ae9ba8e3" name="Default Changelist" comment="" />
+    <list default="true" id="b0001a6e-de85-41ee-a8c6-2bc8ae9ba8e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsoleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsoleGame.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cW1k4onfORJGB2jfJ57FKlYqn9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +35,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -122,22 +131,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1590897132701" />
-    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1590966570084">
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1590969224622">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590966570084" />
-    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1590966570083">
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590969224622" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1590969224621">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590966570083" />
-    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1590966570083">
+    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590969224621" />
+    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1590969224621">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590966570083" />
-    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1590966570083">
+    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590969224621" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1590969224621">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590966570083" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590969224621" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1590960452051">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

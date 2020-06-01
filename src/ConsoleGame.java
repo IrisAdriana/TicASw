@@ -38,8 +38,6 @@ public class ConsoleGame {
             int row;
             int column;
             do {
-//                System.out.println("Player " + game.getCurrentPlayer() +
-//                        ", enter an empty row and column to place your mark");
                 System.out.println("play");
 
                 System.out.println("Press 5 to end game in any position");
@@ -60,14 +58,10 @@ public class ConsoleGame {
         } else {
             if (game.checkTicTacToe()) {
                 showBoard();
-//                game.changePlayer();
-//                System.out.println(game.getCurrentPlayer() + "  --> You Win");
                 System.out.println(game.winner() + "  --> You Win");
 
             } else {
                 showBoard();
-//                game.changePlayer();
-//                System.out.println(game.getCurrentPlayer() + "  --> You Lose");
                 System.out.println(game.winner() + "  --> You Lose");
 
             }

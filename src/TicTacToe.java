@@ -66,7 +66,6 @@ public class TicTacToe implements ITicTacToe {
         return false;
     }
 
-
     private boolean isValidCell(int row, int column) {
         if (board[row][column] == '_') {
             validCell = true;
@@ -77,7 +76,6 @@ public class TicTacToe implements ITicTacToe {
         }
         return validCell;
     }
-
 
     private void changePlayer() {
         if (currentPlayerMark == 'X') {
@@ -110,7 +108,6 @@ public class TicTacToe implements ITicTacToe {
         return validCell;
     }
 
-
     private boolean checkColumnsForWin() {
         for (int column = 0; column < board.length; column++) {
             if (checkRowCol(board[0][column], board[1][column], board[2][column])) {
@@ -119,7 +116,6 @@ public class TicTacToe implements ITicTacToe {
         }
         return validCell;
     }
-
 
     private boolean checkDiagonalsForWin() {
         return ((checkRowCol(board[0][0], board[1][1], board[2][2])) || (checkRowCol(board[0][2], board[1][1], board[2][0])));
