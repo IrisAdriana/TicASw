@@ -6,7 +6,7 @@ public interface IGame {
 
     boolean isBoardFull();
 
-    boolean markMovie(int row, int column);
+    boolean markMove(int row, int column);
 
     boolean isValidCell(int row, int column);
 

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ConsoleGame {
+public class Console {
     Scanner player = new Scanner(System.in);
     Scanner option = new Scanner(System.in);
     //    private IGame game;
@@ -9,15 +9,12 @@ public class ConsoleGame {
     int exit = 6;
 
 
-    public ConsoleGame(ITicTacToe game) {
+    public Console(ITicTacToe game) {
         this.game = game;
     }
 
-    public void toPlay() {
+    public void run() {
         options();
-//        game.create();
-//        System.out.println("This is current bord");
-//        showBoard();
         play();
     }
 
@@ -36,7 +33,7 @@ public class ConsoleGame {
                     System.exit(0);
                 }
             }
-            while (!game.markMovie(row, column));
+            while (!game.markMove(row, column));
             showBoard();
 
         }

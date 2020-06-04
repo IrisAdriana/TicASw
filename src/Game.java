@@ -38,7 +38,7 @@ public class Game implements IGame {
     }
 
     @Override
-    public boolean markMovie(int row, int column) {
+    public boolean markMove(int row, int column) {
         if ((row >= 0) && (row < board.length)) {
             if ((column >= 0) && (column < board.length)) {
                 if (board[row][column] == '_') {

@@ -4,8 +4,8 @@ public class TicTacToe implements ITicTacToe {
     private char currentPlayerMark;
     private boolean validCell;
 
-    public TicTacToe(int row, int column) {
-        board = new char[row][column];
+    public TicTacToe() {
+        board = new char[SIZE][SIZE];
         currentPlayerMark = 'X';
         create();
     }
@@ -48,7 +48,7 @@ public class TicTacToe implements ITicTacToe {
     }
 
     @Override
-    public boolean markMovie(int row, int column) {
+    public boolean markMove(int row, int column) {
         if ((row >= 0) && (row < board.length)) {
             if ((column >= 0) && (column < board.length)) {
                 if (board[row][column] == '_') {
@@ -66,16 +66,16 @@ public class TicTacToe implements ITicTacToe {
         return false;
     }
 
-    private boolean isValidCell(int row, int column) {
-        if (board[row][column] == '_') {
-            validCell = true;
-        } else {
-            if (board[row][column] == 'X' || board[row][column] == 'O') {
-                validCell = false;
-            }
-        }
-        return validCell;
-    }
+//    public boolean isValidCell(int row, int column) {
+//        if (board[row][column] == '_') {
+//            validCell = true;
+//        } else {
+//            if (board[row][column] == 'X' || board[row][column] == 'O') {
+//                validCell = false;
+//            }
+//        }
+//        return validCell;
+//    }
 
     private void changePlayer() {
         if (currentPlayerMark == 'X') {
