@@ -4,10 +4,8 @@ import java.util.Scanner;
 public class Console {
     Scanner player = new Scanner(System.in);
     Scanner option = new Scanner(System.in);
-    //    private IGame game;
     private ITicTacToe game;
     int exit = 6;
-
 
     public Console(ITicTacToe game) {
         this.game = game;
@@ -53,7 +51,7 @@ public class Console {
         }
     }
 
-    public void options() {
+    private void options() {
         showOptions();
         int optionToPlay = option.nextInt();
         switch (optionToPlay) {
@@ -79,7 +77,7 @@ public class Console {
         System.out.println("------------------");
     }
 
-    public char[][] showBoard() {
+    private char[][] showBoard() {
         System.out.println("--------------");
 
         char[][] board = game.getBoard();
