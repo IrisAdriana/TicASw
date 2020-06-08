@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0001a6e-de85-41ee-a8c6-2bc8ae9ba8e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/TicTacToeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/ConsoleGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/IGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/IGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/ITicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/ITicTacToe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToeGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/Console.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/IGame.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/TicTacToe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToeGame/GameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TicTacToeGame/GameTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ITicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ITicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ConsoleGameTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/GameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TicTacToeGame/GameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/view/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ITicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/ITicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/view/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TicTacToeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TicTacToeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,9 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -89,21 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeTest.checkForWinTest_isSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TicTacToeTest.drawTiedGameFalseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TicTacToeGame" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TicTacToeTest" />
-      <option name="METHOD_NAME" value="checkForWinTest_isSuccess" />
+      <option name="METHOD_NAME" value="drawTiedGameFalseTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeTest.markCellTest_O_isSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TicTacToeTest.getBoardStartGameEmptyMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TicTacToeGame" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TicTacToeTest" />
-      <option name="METHOD_NAME" value="markCellTest_O_isSuccess" />
+      <option name="METHOD_NAME" value="getBoardStartGameEmptyMatrixTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,9 +115,9 @@
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TicTacToeTest" />
+        <item itemvalue="JUnit.TicTacToeTest.drawTiedGameFalseTest" />
         <item itemvalue="JUnit.All in TicTacToeGame" />
-        <item itemvalue="JUnit.TicTacToeTest.checkForWinTest_isSuccess" />
-        <item itemvalue="JUnit.TicTacToeTest.markCellTest_O_isSuccess" />
+        <item itemvalue="JUnit.TicTacToeTest.getBoardStartGameEmptyMatrixTest" />
       </list>
     </recent_temporary>
   </component>
@@ -141,46 +143,54 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1590960511827" />
+    <state x="822" y="231" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591383057350">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="822" y="231" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1591383057350" />
     <state x="425" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591034203809">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="425" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1591034203809" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591381841378">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1591381841378" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1590897132701">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1590897132701" />
-    <state width="1323" height="147" key="GridCell.Tab.0.bottom" timestamp="1591228888498">
+    <state width="639" height="201" key="GridCell.Tab.0.bottom" timestamp="1591625472779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="147" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591228888498" />
-    <state width="1323" height="147" key="GridCell.Tab.0.center" timestamp="1591228888498">
+    <state width="639" height="201" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
+    <state width="639" height="201" key="GridCell.Tab.0.center" timestamp="1591625472779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="147" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591228888498" />
-    <state width="1323" height="147" key="GridCell.Tab.0.left" timestamp="1591228888498">
+    <state width="639" height="201" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
+    <state width="639" height="201" key="GridCell.Tab.0.left" timestamp="1591625472779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="147" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591228888498" />
-    <state width="1323" height="147" key="GridCell.Tab.0.right" timestamp="1591228888498">
+    <state width="639" height="201" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
+    <state width="639" height="201" key="GridCell.Tab.0.right" timestamp="1591625472779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="147" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591228888498" />
-    <state width="1323" height="137" key="GridCell.Tab.1.bottom" timestamp="1591227616382">
+    <state width="639" height="201" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
+    <state width="1323" height="137" key="GridCell.Tab.1.bottom" timestamp="1591576384055">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591227616382" />
-    <state width="1323" height="137" key="GridCell.Tab.1.center" timestamp="1591227616382">
+    <state width="1323" height="137" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591576384055" />
+    <state width="1323" height="137" key="GridCell.Tab.1.center" timestamp="1591576384039">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591227616382" />
-    <state width="1323" height="137" key="GridCell.Tab.1.left" timestamp="1591227616382">
+    <state width="1323" height="137" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591576384039" />
+    <state width="1323" height="137" key="GridCell.Tab.1.left" timestamp="1591576384039">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591227616382" />
-    <state width="1323" height="137" key="GridCell.Tab.1.right" timestamp="1591227616382">
+    <state width="1323" height="137" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591576384039" />
+    <state width="1323" height="137" key="GridCell.Tab.1.right" timestamp="1591576384039">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591227616382" />
+    <state width="1323" height="137" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591576384039" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1590960452051">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -193,6 +203,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="796" y="75" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1591033920813" />
+    <state x="131" y="0" key="new project wizard" timestamp="1591382206214">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1591382206214" />
     <state x="370" y="215" width="708" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590960439415">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
