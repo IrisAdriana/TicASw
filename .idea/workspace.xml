@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0001a6e-de85-41ee-a8c6-2bc8ae9ba8e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToeGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToeGame.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/IGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToeGame/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToeGame/TicTacToe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToeGame/GameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/view/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ITicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/ITicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/view/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/GameTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TicTacToeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TicTacToeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0001a6e-de85-41ee-a8c6-2bc8ae9ba8e3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,22 +142,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1590897132701" />
-    <state width="639" height="201" key="GridCell.Tab.0.bottom" timestamp="1591625472779">
+    <state width="639" height="201" key="GridCell.Tab.0.bottom" timestamp="1591625775580">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="639" height="201" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
-    <state width="639" height="201" key="GridCell.Tab.0.center" timestamp="1591625472779">
+    <state width="639" height="201" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591625775580" />
+    <state width="639" height="201" key="GridCell.Tab.0.center" timestamp="1591625775580">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="639" height="201" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
-    <state width="639" height="201" key="GridCell.Tab.0.left" timestamp="1591625472779">
+    <state width="639" height="201" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591625775580" />
+    <state width="639" height="201" key="GridCell.Tab.0.left" timestamp="1591625775580">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="639" height="201" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
-    <state width="639" height="201" key="GridCell.Tab.0.right" timestamp="1591625472779">
+    <state width="639" height="201" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591625775580" />
+    <state width="639" height="201" key="GridCell.Tab.0.right" timestamp="1591625775580">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="639" height="201" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591625472779" />
+    <state width="639" height="201" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591625775580" />
     <state width="1323" height="137" key="GridCell.Tab.1.bottom" timestamp="1591576384055">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
